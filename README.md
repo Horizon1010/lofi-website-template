@@ -34,13 +34,13 @@ Horizon/
 1. **Download or Clone the Repository:**
 
    ```sh
-   git clone https://github.com/yourusername/horizon-template.git
+   git clone https://github.com/Horizon1010/lofi-website-template.git
    ```
 
 2. **Navigate to the Folder:**
 
    ```sh
-   cd horizon-template
+   cd lofi-website-template
    ```
 
 3. **Open `index.html` in your preferred browser:**
