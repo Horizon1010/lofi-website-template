@@ -105,5 +105,6 @@ The `script.js` file contains the basic JavaScript functions:
 
 ## Credits
 
+- **[Mike Bennett JR](https://github.com/Mike782):** Added Legacy Support for old Browsers
 - **Icons:** [Font Awesome](https://fontawesome.com)
 - **Font:** [Google Fonts - Pacifico](https://fonts.google.com/specimen/Pacifico)
